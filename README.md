@@ -1,5 +1,5 @@
 # api-server
-## Lab-07
+## Lab-08
 
 ### Author : Hammad Ali
 
@@ -16,8 +16,7 @@
 * /categories
 
 #### Test :
-* server.test.js
-* logger.test.js
+* we tests the products and categories and server pages.
 
 #### UML :
-![image](./assest/white-boread-lab07.jpg)
+![image](./assest/white-boread-lab08.jpg)

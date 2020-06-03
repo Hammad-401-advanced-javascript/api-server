@@ -1,6 +1,7 @@
 'use strict';
 
-module.exports = (req, res, next) => {
+module.exports=(req,res)=>{
   res.status(404);
-  res.send({err: 'not found'});
+  res.statusMessage='yourdata not found';
+  res.json({error:'Not Found'});
 };

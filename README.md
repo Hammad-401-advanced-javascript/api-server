@@ -12,7 +12,7 @@
 
 #### How to run the app : 
 * nodemon
-*/api-vi/model
+*/api/vi/model
 
 #### Test :
 * we tests the api-v1 with server pages.

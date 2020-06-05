@@ -1,5 +1,5 @@
 # api-server
-## Lab-07
+## Lab-09
 
 ### Author : Hammad Ali
 
@@ -12,12 +12,10 @@
 
 #### How to run the app : 
 * nodemon
-* /products
-* /categories
+*/api-vi/model
 
 #### Test :
-* server.test.js
-* logger.test.js
+* we tests the api-v1 with server pages.
 
 #### UML :
-![image](./assest/white-boread-lab07.jpg)
+![image](./assest/whiteboard-lab09.jpg)

@@ -31,3 +31,6 @@
 **you will see in this link all the operations that i did**
 [Swagger URL](https://app.swaggerhub.com/apis/Hammadsoloman/json-server/0.1)
 
+### UML
+![image](./assest/lab-06.jpg)
+

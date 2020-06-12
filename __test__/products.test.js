@@ -30,6 +30,17 @@ describe(' Model for the products',()=>{
       });
   });
 
+
+  // it('can update() product', ()=> {
+  //   let id='5ed67ce7ce232f1370c54cc8';
+
+  //   return productsTest.update(id,obj)
+  //     .then(result => {
+  //       Object.keys(obj).forEach(key=> {
+  //         expect(result[key]).toEqual(obj[key]);
+  //       });
+  //     });
+  // });
   it('can delete() a product',()=>{
     let id='5ed6910f0e959718769e3a5a';
     return productsTest.delete(id)

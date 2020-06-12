@@ -3,6 +3,12 @@
 
 ### Author : Hammad Ali
 
+* swaggerhub :
+**https://app.swaggerhub.com/apis/Hammadsoloman/json-server/0.1**
+
+* herokuapp:
+**https://api-server-401-d2.herokuapp.com/**
+
 ### Modules :
 * logger.js
 * server.js
@@ -19,3 +25,5 @@
 
 #### UML :
 ![image](./assest/whiteboard-lab09.jpg)
+
+

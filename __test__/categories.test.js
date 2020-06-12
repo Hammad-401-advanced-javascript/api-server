@@ -29,6 +29,16 @@ describe(' Model for the categories',()=>{
       });
   });
 
+  // it('can update() category', ()=> {
+  //   let id='5ed67e91d04792140679c3e9';
+  //   return categoriesTest.update(id,obj2)
+  //     .then(result => {
+  //       Object.keys(obj2).forEach(key=> {
+  //         expect(result[key]).toEqual(obj2[key]);
+  //       });
+  //     });
+  // });
+
   it('can delete() a categories',()=>{
     let id='5ed6910f0e959718769e3a5a';
     return categoriesTest.delete(id)
